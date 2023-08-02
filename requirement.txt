@@ -1,0 +1,7 @@
+geopandas==0.10.2
+pysal==2.5.0
+matplotlib==3.4.3
+folium==0.12.1
+scikit-learn==0.24.2
+plotly==5.3.1
+numpy==1.21.2
