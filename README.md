@@ -1,4 +1,4 @@
-# Geospatial Analysis Project
+# Geospatial Analysis Project using spatial autoregressive model
 
 This repository contains the code and data for a geospatial analysis project. The project aims to perform an in-depth analysis of geographical data and derive insights through various geospatial techniques and models.
 
