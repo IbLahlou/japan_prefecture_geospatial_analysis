@@ -73,5 +73,4 @@ Feel free to contribute, open issues, or suggest improvements to the analysis.
 
 Happy geospatial analysis!
 
-![image](https://github.com/IbLahlou/sar_geoanalysis/assets/105231126/a6d895d5-6b05-434b-91be-a27c3c9f81c8)
 
